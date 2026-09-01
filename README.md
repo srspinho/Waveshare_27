@@ -157,3 +157,5 @@ O código possui proteção cooperativa (`g_flash_pausar_usb` / `g_flash_usb_par
 
   <img src="https://github.com/srspinho/Waveshare_26/blob/main/WhatsApp Image 2026-08-18 at 18.28.11.jpeg" width="400">
   </p>
+  <img src="https://github.com/srspinho/Waveshare_26/blob/main/WhatsApp Image 2026-09-01 at 18.37.25.jpeg" width="400">
+  </p>
